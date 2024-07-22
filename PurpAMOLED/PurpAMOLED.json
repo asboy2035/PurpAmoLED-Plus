@@ -1,10 +1,14 @@
 {
-    "name": "PurpAMOLED",
-    "description": "AMOLED version of PurpDark",
+    "name": "PurpAMOLED+",
+    "description": "AMOLED version of PurpDark with better icons",
     "authors": [
         {
             "name": "@vorlie",
             "id": "614807913302851594"
+        },
+        {
+            "name" : "@asboy2035",
+            "id" : "1118629361675939860"
         }
     ],
     "semanticColors": {
@@ -116,6 +120,10 @@
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
+    },
+    "plus": {
+        "version": 0,
+        "iconpack" : "rosiecord-plumpy"
     },
     "spec": 2
 }

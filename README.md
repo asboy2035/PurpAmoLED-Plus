@@ -1,4 +1,4 @@
-# VendettaThemes
+# PurpAmoLED+
 You need **[Vendetta](https://github.com/vendetta-mod/Vendetta#installing)** installed on your device to get the themes work.
 
 **Installation:**
